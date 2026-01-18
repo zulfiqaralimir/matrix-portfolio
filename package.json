@@ -1,0 +1,20 @@
+{
+  "name": "matrix-portfolio",
+  "version": "1.0.0",
+  "description": "Cyberpunk Matrix-themed portfolio for Zulfiqar Ali Mir - Agentic AI Expert",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve .",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": [
+    "portfolio",
+    "matrix",
+    "cyberpunk",
+    "ai",
+    "agentic-ai"
+  ],
+  "author": "Zulfiqar Ali Mir",
+  "license": "MIT"
+}
